@@ -64,7 +64,7 @@ a.banner-a:hover {
 }
 #sideNav {
   width: 200px;
-  height: 100vh;
+  height: 80vh;
   position: fixed;
   background-color: #009688;
   top: 0;
@@ -77,7 +77,7 @@ a.banner-a:hover {
   margin-top: 100px;
 }
 #sideNav nav ul li {
-  margin: 50px 20px;
+  margin: 50px 45px;
   list-style: none;
 }
 #sideNav nav ul li a {
